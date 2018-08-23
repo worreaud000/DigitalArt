@@ -1,8 +1,8 @@
 # Course Info
-* [Syllabus](https://worreaud000.github.io/DigitalArt/syllabus)
-* [Course Description](https://worreaud000.github.io/DigitalArt/course-description)
+* [Syllabus](https://worreaud000.github.io/DigitalArt/Syllabus)
+* [Course Description](https://worreaud000.github.io/DigitalArt/CourseDescription)
 
 # Stuff
  
-* [How Would You Define Art?](https://worreaud000.github.io/DigitalArt/define-art)
-* [People of Interest](https://worreaud000.github.io/DigitalArt/people-of-interest)
+* [How Would You Define Art?](https://worreaud000.github.io/DigitalArt/DefineArt)
+* [People of Interest](https://worreaud000.github.io/DigitalArt/PeopleOfInterest)
