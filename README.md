@@ -3,6 +3,6 @@
 * [Course Description](https://worreaud000.github.io/digitalart/course-description)
 
 # Stuff
-
+ 
 *
 *
