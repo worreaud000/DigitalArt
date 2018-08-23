@@ -5,4 +5,4 @@
 # Stuff
  
 * [How Would You Define Art?](https://worreaud000.github.io/digitalart/define-art)
-*
+* [How Would You Define Art?](https://worreaud000.github.io/digitalart/people-of-interest)
