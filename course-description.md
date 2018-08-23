@@ -95,5 +95,5 @@ We will use ManageBac.
 
 ___
 
-### [Main Page](https://worreaud000.github.io/digitalart)
+### [Main Page](https://worreaud000.github.io/DigitalArt)
 
