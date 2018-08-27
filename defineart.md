@@ -6,4 +6,4 @@ idk
 
 ___
 
-### [Main Page](https://worreaud000.github.io/DigitalArt)
+### [Main Page](https://worreaud000.github.io/digitalart)
