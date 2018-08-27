@@ -6,4 +6,4 @@ He was born in 1906, and studied art all through school and college. He got a lo
 
 ___
 
-### [Main Page](https://worreaud000.github.io/DigitalArt)
+### [Main Page](https://worreaud000.github.io/digitalart)
