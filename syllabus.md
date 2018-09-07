@@ -86,4 +86,4 @@ Research, as well as personal experience, shows that students tend to understand
 
 ___
 
-### [Main Page](https://worreaud000.github.io/DigitalArt)
+### [Main Page](https://worreaud000.github.io/digitalart)
