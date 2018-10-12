@@ -6,3 +6,4 @@
  
 * [How Would You Define Art?](https://worreaud000.github.io/digitalart/defineart)
 * [People of Interest](https://worreaud000.github.io/digitalart/peopleofinterest)
+* [About Op Art](https://worreaud000.github.io/digitalart/aboutopart)
