@@ -19,7 +19,7 @@ Op art is pretty much what would happen if pop art and optical illusions had a k
 Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. Eros and Psyche¹ is an example of this
 
 
-Eros and Psyche¹ <img src="https://raw.githubusercontent.com/worreaud000/digitalart/master/ErosPsyche.jpg" height="30%" width="30%">
+Eros and Psyche¹ <img src="https://raw.githubusercontent.com/worreaud000/digitalart/master/ErosPsyche.jpg" height="30%" width="30%" img align = "top">
 
 
 
