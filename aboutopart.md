@@ -16,7 +16,9 @@ Op art is pretty much what would happen if pop art and optical illusions had a k
 ### A Few Artists
 
 ##### Philip Taafe
-Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. One of these, Eros and Psyche
+Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. One of these, Eros and Psyche ![alt text](ErosPsyche.jpg "Eros and Psyche")
+
+
 
 
 
