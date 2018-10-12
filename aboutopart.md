@@ -40,7 +40,6 @@ Jesús was a Venezuelan Op Artist. He lived from 1923 to 2005. His works, such a
 <p align = "center">
 Cardinal⁵  |   Dos Cuadritos⁶
 
-
 <img src="https://www.tate.org.uk/art/images/work/T/T00/T00793_10.jpg" width="350" img align = "top"> <img src="https://uploads1.wikiart.org/images/jes-s-rafael-soto/dos-cuadritos.jpg" width="350" img align = "top">
 </p>
 
