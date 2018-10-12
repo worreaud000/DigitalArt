@@ -19,7 +19,7 @@ Op art is pretty much what would happen if pop art and optical illusions had a k
 Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. Eros and Psyche¹ and Pine Columns² are examples of this. Both use bright and contrasting colors, patterns, and warm colors. I think his work is nice, if but not my favorite, and I can't exactly explain why. 
 
 
-Eros and Psyche¹                                                  Pine Columns²
+⬐ Eros and Psyche¹ | Pine Columns² ↴
 
 <img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="440" img align = "top" img align = "left"> <img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="440" img align = "top" img align = "right">
 
