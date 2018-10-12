@@ -16,7 +16,7 @@ Op art is pretty much what would happen if pop art and optical illusions had a k
 ### A Few Artists
 
 ##### Philip Taafe
-Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. Eros and Psyche¹ and Pine Columns² is an example of this
+Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. Eros and Psyche¹ and Pine Columns² are examples of this. Both use bright and contrasting colors, patterns, and 
 
 
 Eros and Psyche¹                                                  Pine Columns²
