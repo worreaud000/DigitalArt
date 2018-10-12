@@ -5,16 +5,16 @@
 ### A Few Sources
 
 [The Art Story](https://www.theartstory.org/movement-op-art.htm)
-	This link provides a summary of the history, important details and artists, and concepts of Op Art, while also keeping it relatively concise and understandable. It filters out the unimportant, minute details and focuses on the big picture without diluting the concept.
+	provides a summary of the history, important details and artists, and concepts of Op Art, while also keeping it relatively concise and understandable. It filters out the unimportant, minute details and focuses on the big picture without diluting the concept.
 
 [Tate](https://www.tate.org.uk/art/art-terms/o/op-art)
-	This page doesn't focus much on the actual history, meaning, or concepts of Op Art. It focuses on the artists and works. The amount of information on Op Art as a whole is extremely minimal, but that's made up for by the amount of information on individual artists that's catalogued alongside it.
+	 doesn't focus much on the actual history, meaning, or concepts of Op Art. It focuses on the artists and works. The amount of information on Op Art as a whole is extremely minimal, but that's made up for by the amount of information on individual artists that's catalogued alongside it.
 
 [National Galleries Scotland](https://www.nationalgalleries.org/art-and-artists/glossary-terms/op-art)
-	This one is similar to The Art Story in that it focuses on the history and details of Op Art, but it's also got some similarity to Tate, as it does talk about the important artists a bit as well. This one also talks about Op Art's connection with Kinetic Art, and the origin of the term Op Art. It's more consice than The Art Story, but lengthier than Tate.
+	 is similar to The Art Story in that it focuses on the history and details of Op Art, but it's also got some similarity to Tate, as it does talk about the important artists a bit as well. This one also talks about Op Art's connection with Kinetic Art, and the origin of the term Op Art. It's more consice than The Art Story, but lengthier than Tate.
 
 [Art History](http://www.arthistory.net/op-art/)
-	Once again, this one combines elements of all of the others. It focuses more on the artists than National Galleries Scotland and The Art Story, but it's not entirely focused on them like Tate. It's pretty concise and brings up several new names to the list of artists, while also explaining the connections Op Art has with other art movements in another new light.
+	 one combines elements of all of the others. It focuses more on the artists than National Galleries Scotland and The Art Story, but it's not entirely focused on them like Tate. It's pretty concise and brings up several new names to the list of artists, while also explaining the connections Op Art has with other art movements in another new light.
 
 
 ### A Few Artists
