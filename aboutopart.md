@@ -23,7 +23,6 @@ Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art piec
 Eros and Psyche¹  |   Pine Columns²
 
 <img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="440" img align = "top" img align = "left"> <img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="440" img align = "top" img align = "right">
-<\p>
 
 ##### Frank Stella
 Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker. His work in Op Art didn't start until quite a bit into his career. His works were more geometric, as is shown in Hyena Stomp³ and another work with no known title, so we'll call it Title Unknown⁴. Both of these consist mostly of straight lines forming patterns, and both of them are really nice. I really enjoy his work.
@@ -32,7 +31,6 @@ Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker.
 Hyena Stomp³  |   Title Unknown⁴
 
 <img src="https://www.tate.org.uk/art/images/work/T/T00/T00730_10.jpg" width="440" img align = "top" img align = "left"> <img src="https://www.tate.org.uk/art/images/work/P/P78/P78387_10.jpg" width="440" img align = "top" img align = "right">
-<\p>
 
 
 
