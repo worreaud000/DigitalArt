@@ -8,9 +8,9 @@ Op art is pretty much what would happen if pop art and optical illusions had a k
 
 [Tate](https://www.tate.org.uk/art/art-terms/o/op-art) doesn't focus much on the actual history, meaning, or concepts of Op Art. It focuses on the artists and works. The amount of information on Op Art as a whole is extremely minimal, but that's made up for by the amount of information on individual artists that's catalogued alongside it.
 
-[National Galleries Scotland](https://www.nationalgalleries.org/art-and-artists/glossary-terms/op-art) is similar to The Art Story in that it focuses on the history and details of Op Art, but it's also got some similarity to [Tate](https://www.tate.org.uk/art/art-terms/o/op-art), as it does talk about the important artists a bit as well. This one also talks about Op Art's connection with Kinetic Art, and the origin of the term Op Art. It's more consice than [The Art Story](https://www.theartstory.org/movement-op-art.htm), but lengthier than [Tate](https://www.tate.org.uk/art/art-terms/o/op-art).
+[National Galleries Scotland](https://www.nationalgalleries.org/art-and-artists/glossary-terms/op-art) is similar to The Art Story in that it focuses on the history and details of Op Art, but it's also got some similarity to Tate, as it does talk about the important artists a bit as well. This one also talks about Op Art's connection with Kinetic Art, and the origin of the term Op Art. It's more consice than The Art Story, but lengthier than Tate.
 
-[Art History](http://www.arthistory.net/op-art/) combines elements of all of the others. It focuses more on the artists than [National Galleries Scotland](https://www.nationalgalleries.org/art-and-artists/glossary-terms/op-art) and [The Art Story](https://www.theartstory.org/movement-op-art.htm), but it's not entirely focused on them like [Tate](https://www.tate.org.uk/art/art-terms/o/op-art). It's pretty concise and brings up several new names to the list of artists, while also explaining the connections Op Art has with other art movements in another new light.
+[Art History](http://www.arthistory.net/op-art/) combines elements of all of the others. It focuses more on the artists than National Galleries Scotland and The Art Story, but it's not entirely focused on them like Tate. It's pretty concise and brings up several new names to the list of artists, while also explaining the connections Op Art has with other art movements in another new light.
 
 
 ### A Few Artists
@@ -19,8 +19,7 @@ Op art is pretty much what would happen if pop art and optical illusions had a k
 Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art pieces. Eros and Psyche¹ is an example of this
 
 
-¹![alt text](ErosPsyche.jpg "Eros and Psyche")
-Eros and Psyche
+¹ Eros and Psyche ![alt text](ErosPsyche.jpg "Eros and Psyche")
 
 
 
