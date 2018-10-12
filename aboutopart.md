@@ -21,7 +21,7 @@ Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art piec
 
 <p align = "center">
 Eros and Psyche¹
- 
+
 <img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="400" img align = "top"> 
 
 Pine Columns²
@@ -34,7 +34,7 @@ Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker.
 
 <p align = "center">
 Hyena Stomp³
- 
+
 <img src="https://www.tate.org.uk/art/images/work/T/T00/T00730_10.jpg" width="400" img align = "top">
 
 Title Unknown⁴
@@ -47,7 +47,7 @@ Jesús was a Venezuelan Op Artist. He lived from 1923 to 2005. His works, such a
 
 <p align = "center">
 Cardinal⁵
- 
+
 <img src="https://www.tate.org.uk/art/images/work/T/T00/T00793_10.jpg" width="400" img align = "top">
 
 Dos Cuadritos⁶
