@@ -22,11 +22,11 @@ Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art piec
 <p align = "center">
 Eros and Psyche¹
 
-<img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="400" img align = "top"> 
+<img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="450" img align = "top"> 
 
 Pine Columns²
 
-<img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="400" img align = "top">
+<img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="450" img align = "top">
 </p>
 
 ##### Frank Stella
@@ -35,11 +35,11 @@ Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker.
 <p align = "center">
 Hyena Stomp³
 
-<img src="https://www.tate.org.uk/art/images/work/T/T00/T00730_10.jpg" width="400" img align = "top">
+<img src="https://www.tate.org.uk/art/images/work/T/T00/T00730_10.jpg" width="450" img align = "top">
 
 Title Unknown⁴
 
-<img src="https://www.tate.org.uk/art/images/work/P/P78/P78387_10.jpg" width="400" img align = "top">
+<img src="https://www.tate.org.uk/art/images/work/P/P78/P78387_10.jpg" width="450" img align = "top">
 </p>
 
 ##### Jesús Rafael Soto
@@ -48,11 +48,11 @@ Jesús was a Venezuelan Op Artist. He lived from 1923 to 2005. His works, such a
 <p align = "center">
 Cardinal⁵
 
-<img src="https://www.tate.org.uk/art/images/work/T/T00/T00793_10.jpg" width="400" img align = "top">
+<img src="https://www.tate.org.uk/art/images/work/T/T00/T00793_10.jpg" width="450" img align = "top">
 
 Dos Cuadritos⁶
 
-<img src="https://uploads1.wikiart.org/images/jes-s-rafael-soto/dos-cuadritos.jpg" width="400" img align = "top">
+<img src="https://uploads1.wikiart.org/images/jes-s-rafael-soto/dos-cuadritos.jpg" width="450" img align = "top">
 </p>
 
 
