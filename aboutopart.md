@@ -20,6 +20,7 @@ Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art piec
 
 
 Eros and Psyche¹
+
 <img src="https://raw.githubusercontent.com/worreaud000/digitalart/master/ErosPsyche.jpg" height="30%" width="30%" img align = "top">
 
 
