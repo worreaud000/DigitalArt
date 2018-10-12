@@ -26,7 +26,7 @@ Eros and Psyche¹  |   Pine Columns²
 <\p>
 
 ##### Frank Stella
-Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker. His work in Op Art didn't start until quite a bit into his career. His works were more geometric, as is shown in Hyena Stomp³ and another work with no known title, so we'll call it Title Unknown⁴. Both of these consist mostly of straight lines forming patterns, and both of them are really nice
+Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker. His work in Op Art didn't start until quite a bit into his career. His works were more geometric, as is shown in Hyena Stomp³ and another work with no known title, so we'll call it Title Unknown⁴. Both of these consist mostly of straight lines forming patterns, and both of them are really nice. I really enjoy his work.
 
 <p align = "center">
 Hyena Stomp³  |   Title Unknown⁴
