@@ -21,7 +21,7 @@ Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art piec
 
 Eros and Psyche¹                                                  Pine Columns²
 
-<img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="400" img align = "top" img align = "left"> <img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="400" img align = "top" img align = "right">
+<img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="450" img align = "top" img align = "left"> <img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="450" img align = "top" img align = "right">
 
 
 
