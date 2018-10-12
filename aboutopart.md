@@ -20,10 +20,10 @@ Philip was born in 1955 in Elizabeth, New Jersey. He has quite a few Op Art piec
 
 
 <p align = "center">
-Eros and Psyche¹
+Eros and Psyche¹\
 <img src="https://philiptaaffe.info/wp-content/uploads/2013/04/Eros-and-Psyche-19942.jpg" width="400" img align = "top"> 
 
-Pine Columns²
+Pine Columns²\
 <img src="http://philiptaaffe.info/wp-content/uploads/2013/04/Pine-Columns-1988.jpg" width="400" img align = "top">
 </p>
 
@@ -31,10 +31,10 @@ Pine Columns²
 Frank, born May 12, 1963 in Massachusets is a painter, sculptor, and printmaker. His work in Op Art didn't start until quite a bit into his career. His works were more geometric, as is shown in Hyena Stomp³ and another work with no known title, so we'll call it Title Unknown⁴. Both of these consist mostly of straight lines forming patterns, and both of them are really nice. I really enjoy his work.
 
 <p align = "center">
-Hyena Stomp³  |   Title Unknown⁴
+Hyena Stomp³\
 <img src="https://www.tate.org.uk/art/images/work/T/T00/T00730_10.jpg" width="400" img align = "top">
 
-Title Unknown⁴
+Title Unknown⁴\
 <img src="https://www.tate.org.uk/art/images/work/P/P78/P78387_10.jpg" width="400" img align = "top">
 </p>
 
@@ -42,10 +42,10 @@ Title Unknown⁴
 Jesús was a Venezuelan Op Artist. He lived from 1923 to 2005. His works, such as Cardinal⁵ and Dos Cuadritos⁶ are examples of his work in Op Art. He used small, paralell lines quite often, and much of his work consists mostly, if not only of them. I think his work is nice, but the use of the thin lines gets repetitive after a little while.
 
 <p align = "center">
-Cardinal⁵
+Cardinal⁵\
 <img src="https://www.tate.org.uk/art/images/work/T/T00/T00793_10.jpg" width="400" img align = "top">
 
-Dos Cuadritos⁶
+Dos Cuadritos⁶\
 <img src="https://uploads1.wikiart.org/images/jes-s-rafael-soto/dos-cuadritos.jpg" width="400" img align = "top">
 </p>
 
